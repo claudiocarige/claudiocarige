@@ -37,7 +37,7 @@ I am currently studying Information System at UNIFACS. I am passionate about pro
 <a>  </a>
 
 <a href="https://www.https://www.jetbrains.com/idea/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="30" height="30"/> </a> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" alt="intellij" width="30" height="30"/> </a> 
 
 <a href="https://www.jetbrains.com/pt-br/pycharm/download/#section=windows" target="_blank"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" alt="pycharm" width="30" height="30"/> </a> 
