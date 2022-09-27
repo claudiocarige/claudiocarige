@@ -10,29 +10,29 @@ I am currently studying Information System at UNIFACS. I am passionate about pro
 <p align="left"> 
 
 <a href="https://www.python.org/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> 
 
 <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/> </a> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="50" height="50"/> </a> 
 
 <a target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> </a> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="50" height="50"/> </a> 
 
 <a>  </a>
 
 <a href="https://www.java.com" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a> 
 
 <a href="https://www.mysql.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> 
 
 ## 🛠️ Tools:
 <p align="left"> 
 <a href="https://git-scm.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="30" height="30"/> </a> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a> 
 
 <a href="https://github.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="30" height="30"/> </a> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> 
 
 <a>  </a>
 
@@ -43,13 +43,13 @@ I am currently studying Information System at UNIFACS. I am passionate about pro
 <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> </a> 
 
 <a href="https://netbeans.apache.org/" target="_blank"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="Apache_netbeans" width="30" height="30"/> </a> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="Apache_netbeans" width="40" height="40"/> </a> 
 
 <a href="https://www.postman.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a> 
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 
 <a href="https://www.heroku.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="30" height="30"/> </a> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="40" height="40"/> </a> 
 </p>
 
 
