@@ -39,6 +39,9 @@ I am currently studying Information System at UNIFACS. I am passionate about pro
 <a href="https://www.https://www.jetbrains.com/idea/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="30" height="30"/> </a> 
 
+<a href="https://www.jetbrains.com/pt-br/pycharm/download/#section=windows" target="_blank"> 
+<img src="https://https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="30" height="30"/> </a> 
+
 <a href="https://netbeans.apache.org/" target="_blank"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="Apache_netbeans" width="30" height="30"/> </a> 
 
@@ -48,6 +51,8 @@ I am currently studying Information System at UNIFACS. I am passionate about pro
 <a href="https://www.heroku.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="30" height="30"/> </a> 
 </p>
+
+
 
 ***
 
