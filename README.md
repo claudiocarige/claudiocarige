@@ -37,10 +37,10 @@ I am currently studying Information System at UNIFACS. I am passionate about pro
 <a>  </a>
 
 <a href="https://www.https://www.jetbrains.com/idea/" target="_blank"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" alt="intellij" width="100" height="60"/> </a> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/> </a> 
 
 <a href="https://www.jetbrains.com/pt-br/pycharm/download/#section=windows" target="_blank"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" alt="pycharm" width="100" height="60"/> </a> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> </a> 
 
 <a href="https://netbeans.apache.org/" target="_blank"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="Apache_netbeans" width="30" height="30"/> </a> 
