@@ -12,9 +12,6 @@ I am currently studying Information System at UNIFACS. I am passionate about pro
 <a href="https://www.python.org/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> 
 
-<a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="50" height="50"/> </a> 
-
 <a target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="50" height="50"/> </a> 
 
@@ -25,7 +22,15 @@ I am currently studying Information System at UNIFACS. I am passionate about pro
 
 <a href="https://www.mysql.com/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> 
-
+  
+## 🛠️ Frameworks:
+  
+<a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="50" height="50"/> </a> 
+  
+<a href="https://pandas.pydata.org/" target="_blank"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="50" height="50"/> </a> 
+  
 ## 🛠️ Tools:
 <p align="left"> 
 <a href="https://git-scm.com/" target="_blank"> 
