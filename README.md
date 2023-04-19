@@ -1,45 +1,52 @@
-### Hi there 👋
+<a href="https://www.linkedin.com/in/claudiocarige" target="_blank" rel="nofollow">
+	<img align="right" alt="Cláudio Carigé's Linkdein" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
-[![Linkedin Badge](https://img.shields.io/badge/-ClaudioCarige-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claudio-carige-b7429b6b/)](https://www.linkedin.com/in/claudio-carige-b7429b6b/)
-[![Gmail Badge](https://img.shields.io/badge/-ClaudioCarige-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:marciomichelluzzi@gmail.com)](mailto:ccarige@gmail.com)
+<h1 align="center">Hey there, my name is Cláudio carigé <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"></h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=1E88E5&center=true&vCenter=true&width=900&height=110&lines=Full+Stack+Jr+Developer;I'm+passionate+Technology)](https://git.io/typing-svg)
+
+
+
+## 👨‍💻 About me
+
 
 I am currently studying Information System at UNIFACS. I am passionate about programming. I am always open and willing to learn new technologies. I seek to help solve everyday problems, in the certainty that I contribute to a better world. I am currently studying Java and improving my Python skills.
 
+- 🔭 I’m currently studying and improving my knowledge
+- 🌱 I am currently learning Java and maximizing Python skills.
+- 👯 I'm looking to collaborate for a better world.
+- 🤔 I'm looking for an opportunity.
+- 📫 Do you want to know my portfolio?: Click here -> https://portfolio-lojapetfront-9sdxuajrz-claudiocarige.vercel.app
 
-## 💻Languages:
-<p align="left"> 
-
-<a href="https://www.python.org/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> 
-
-<a target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> </a> 
-
-<a>  </a>
-
+## 💻Languages and 🛠️ Tools:
+<p align="center"> 
 <a href="https://www.java.com" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a> 
+<a href="https://www.spring.io" target="_blank"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring" width="50" height="50"/> </a> 
 
 <a href="https://www.mysql.com/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a> 
+<a href="https://www.python.org/" target="_blank"> 
   
-## 🛠️ Frameworks:
-  
+<a target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> </a> 
+<a target="_blank"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> </a> 
+<a href="https://www.python.org/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> 
 <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="70" height="70"/> </a> 
   
 <a href="https://pandas.pydata.org/" target="_blank"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="60" height="60"/> </a> 
   
-## 🛠️ Tools:
-<p align="left"> 
 <a href="https://git-scm.com/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a> 
 
 <a href="https://github.com/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> 
-
-<a>  </a>
 
 <a href="https://www.https://www.jetbrains.com/idea/" target="_blank"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/> </a> 
@@ -59,18 +66,17 @@ I am currently studying Information System at UNIFACS. I am passionate about pro
 
 
 
-***
-
-## 👨‍💻 About me
-
-- 🔭 I’m currently studying and improving my knowledge
-- 🌱 I am currently learning Java and maximizing Python skills.
-- 👯 I'm looking to collaborate for a better world.
-- 🤔 I'm looking for an opportunity.
-- 📫 How to reach me: https://portalmastertechnology.herokuapp.com/
 
 
 
 ## 📊 [My Github Stats]
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?claudiocarige=anuraghazra&count_private=true)
+
+
+
+
+<p align="center">
+
+  | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=claudiocarige&show_icons=true&include_all_commits=true&hide=contribs&theme=buefy&hide_border=true" alt="Claudio Carigé's github stats" /></a> | <a href="" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiocarige&layout=compact&theme=buefy&hide_border=true" /></a> | 
+| ------------- | ------------- |
+</p>
 
