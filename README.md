@@ -2,9 +2,8 @@
 	<img align="right" alt="Cláudio Carigé's Linkdein" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<h1 align="center">Hey there, my name is Cláudio carigé <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"></h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=1E88E5&center=true&vCenter=true&width=900&height=110&&lines=Hi+there%2C+my+name+is+Cl%C3%A1udio+Carig%C3%A9.;Full+Stack+Jr+Developer;I'm+passionate+Technology!)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=1E88E5&center=true&vCenter=true&width=900&height=110&lines=Full+Stack+Jr+Developer;I'm+passionate+Technology)](https://git.io/typing-svg)
 
 ## 👨‍💻 About me
 
