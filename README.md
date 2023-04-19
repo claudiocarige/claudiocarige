@@ -70,3 +70,7 @@ I am currently studying Information System at UNIFACS. I am passionate about pro
 - 📫 How to reach me: https://portalmastertechnology.herokuapp.com/
 
 
+
+## 📊 [My Github Stats]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?claudiocarige=anuraghazra&count_private=true)
+
