@@ -65,18 +65,12 @@ I am currently studying Information System at UNIFACS. I am passionate about pro
 </p>
 
 
-
-
-
-
 ## 📊 [My Github Stats]
 
-
-
-
 <p align="center">
-
-  | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=claudiocarige&show_icons=true&include_all_commits=true&hide=contribs&theme=buefy&hide_border=true" alt="Claudio Carigé's github stats" /></a> | <a href="" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiocarige&layout=compact&theme=buefy&hide_border=true" /></a> | 
-| ------------- | ------------- |
+<a href="">
+<img align="centre" src="https://github-readme-stats.vercel.app/api?username=claudiocarige&show_icons=true&include_all_commits=true&hide=contribs&theme=transparent" alt="Claudio Carigé's github stats" height=200/></a>
+<a href="" >
+<img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiocarige&count_private=true&layout=compact&theme=transparent" height=200/></a>  
 </p>
 
