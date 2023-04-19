@@ -2,7 +2,7 @@
 	<img align="right" alt="Cláudio Carigé's Linkdein" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&weight=900&size=40&color=1E88E5&center=true&vCenter=true&duration=1000&pause=10000&width=900&height=80&&lines=Hi+there%2C+my+name+is+Cl%C3%A1udio+Carig%C3%A9.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&weight=900&size=40&color=1E88E5&center=true&vCenter=true&duration=2000&pause=20000&width=900&height=80&&lines=Hi+there%2C+my+name+is+Cl%C3%A1udio+Carig%C3%A9.)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&weight=800&size=30&color=E65100&center=true&vCenter=true&width=900&height=110&duration=1500&pause=3000&lines=Full+Stack+Developer+Jr;I'm+passionate+Technology!)](https://git.io/typing-svg)
 
