@@ -7,10 +7,9 @@
 I am currently studying Information System at UNIFACS. I am passionate about programming. I am always open and willing to learn new technologies. I seek to help solve everyday problems, in the certainty that I contribute to a better world. I am currently studying Java and improving my Python skills.
 
 - 🔭 I’m currently studying and improving my knowledge
-- 🌱 I am currently learning Java and maximizing Python skills.
+- 🌱 Currently I'm maxing out skills in Java, SpringBoot, Postgresql.
 - 👯 I'm looking to collaborate for a better world.
-- 🤔 I'm looking for an opportunity.
-- 📫 Do you want to know my portfolio?: Click here -> https://portfolio-lojapetfront-9sdxuajrz-claudiocarige.vercel.app
+- 📫 Do you want to know my portfolio?: Click here -> https://claudiocarige.vercel.app/home
 
 ## 💻Languages and 🛠️ Tools:
 <p align="center"> 
