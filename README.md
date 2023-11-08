@@ -8,6 +8,7 @@ I am currently studying Information System at UNIFACS. I am passionate about pro
 
 - 🔭 I’m currently studying and improving my knowledge
 - 🌱 Currently I'm maxing out skills in Java, SpringBoot, Postgresql.
+- 🌱 I'm volunteering in an agile project of Pipoca Agile, where I collaborate as a Java Backend Developer.
 - 👯 I'm looking to collaborate for a better world.
 - 📫 Do you want to know my portfolio?: Click here -> https://claudiocarige.vercel.app/home
 
