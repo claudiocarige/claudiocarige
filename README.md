@@ -31,8 +31,6 @@ I am currently studying Information System at UNIFACS. I am passionate about pro
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> 
 <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="70" height="70"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="60" height="60"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://github.com/" target="_blank"> 
@@ -41,8 +39,6 @@ I am currently studying Information System at UNIFACS. I am passionate about pro
 <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/> </a> 
 <a href="https://www.jetbrains.com/pt-br/pycharm/download/#section=windows" target="_blank"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> </a> 
-<a href="https://netbeans.apache.org/" target="_blank"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="Apache_netbeans" width="40" height="40"/> </a> 
 <a href="https://www.postman.com/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://www.heroku.com/" target="_blank">
