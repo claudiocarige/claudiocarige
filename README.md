@@ -11,7 +11,7 @@ I am currently studying Information System at UNIFACS. I am passionate about pro
 - 🌱 I'm volunteering in an agile project of Pipoca Agile, where I collaborate as a Java Backend Developer.
 - 👯 I'm looking to collaborate for a better world.
 - 📫 Do you want to know my portfolio?: Click here -> https://claudiocarige.vercel.app/home
-<details>
+
 ## 💻Languages and 🛠️ Tools:
 <p align="center"> 
 <a href="https://www.java.com" target="_blank"> 
@@ -44,7 +44,7 @@ I am currently studying Information System at UNIFACS. I am passionate about pro
 <a href="https://www.heroku.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="40" height="40"/> </a> 
 </p>
-</details>
+
 ## 📊 [My Github Stats]
 
 <p align="center">
