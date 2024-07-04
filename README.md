@@ -4,7 +4,8 @@
 
 ## 👨‍💻 About me
 
-I am currently studying Information System at UNIFACS. I am passionate about programming. I am always open and willing to learn new technologies. I seek to help solve everyday problems, in the certainty that I contribute to a better world. I am currently studying Java and improving my Python skills.
+I'm a Soteropolitano passionate about software development with almost 2 years of experience as a developer. Throughout my career, I have specialized in transforming ideas into solutions. I am proficient in Java, Spring Boot, REST APIs, PostgreSQL/MySQL, Git, unit tests (JUnit5) and knowledge in Python, Angular, microservices, messaging and AWS.
+Currently, I am developing a printer rental control project, where I am responsible for implementing the backend with Java and Spring Boot, using TDD to guarantee the quality and performance of the code and on the frontend I am using Angular and its full potential. Additionally, I am contributing as a volunteer backend developer to the Pipoca Ágil project, where I implemented REST APIs for integration with the PAGBANK frontend and Payment Gateway API and Google Mail email service, with the best development practices.
 
 - 🔭 I’m currently studying and improving my knowledge
 - 🌱 Currently I'm maxing out skills in Java, SpringBoot, Postgresql.
